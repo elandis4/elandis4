@@ -40,9 +40,7 @@ Here are some common tasks I’m asked to help with, but really anything you mig
  
  <br />
 
-<img width="20" src="https://user-images.githubusercontent.com/109622022/179842562-d0ed1e56-de9f-4910-b121-e092633f287d.png"><b>  Schedule a meeting here:</b>
-
-
+<img width="20" align="top" src="https://user-images.githubusercontent.com/109622022/179842562-d0ed1e56-de9f-4910-b121-e092633f287d.png"><b> Schedule a meeting here:</b>
 
 <a href="https://calendly.com/elandis4/30min" target="_blank"><img align="top" width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
