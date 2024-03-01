@@ -1,5 +1,5 @@
 
-# <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey there, nice to see you! :-)<br>
+# <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">Value Grows Value.<br>
 
 ### Welcome to my page. I'm Ed, a Shopify Web-Developer from <img src="https://user-images.githubusercontent.com/109622022/179829140-0b87d09f-455e-4569-80e8-ab0e52a5eed7.png" width="13"> LA, US.
 
