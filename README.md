@@ -3,16 +3,7 @@
 
 ### Welcome to my page. I'm Ed, a Shopify Web-Developer from <img src="https://user-images.githubusercontent.com/109622022/179829140-0b87d09f-455e-4569-80e8-ab0e52a5eed7.png" width="13"> LA, US.
 
-### Are you ready? Let's take it to the next level. Hi, I'm Ed, a Shopify Web-Developer from <img src="https://user-images.githubusercontent.com/109622022/179829140-0b87d09f-455e-4569-80e8-ab0e52a5eed7.png" width="13"> LA, US with extenisve small business managment experience.
-
-I support enterprenuers with a passion. Economically, monetarily, politically, and spiritually. Lets provide; like JFK said what can you do.
-
-### 
-
-Hi I'm Ed, a Shopify Web-Developer from <img src="https://user-images.githubusercontent.com/109622022/179829140-0b87d09f-455e-4569-80e8-ab0e52a5eed7.png" width="13"> LA, US with extenisve small business managment experience.
-
-Welcome to my page. I'm Ed, a Shopify Web-Developer from <img src="https://user-images.githubusercontent.com/109622022/179829140-0b87d09f-455e-4569-80e8-ab0e52a5eed7.png" width="13"> LA, US.
-
+### Hi, I'm Ed, a Shopify Web-Developer from <img src="https://user-images.githubusercontent.com/109622022/179829140-0b87d09f-455e-4569-80e8-ab0e52a5eed7.png" width="13"> LA, US with extenisve small business managment experience. I am committed to vision-oriented value with a passion like Don Miguel Ruiz. 
 
 ## 🛠️ Languages and Tools:
 
