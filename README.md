@@ -1,7 +1,9 @@
 
 # <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">Value Grows Value. Let's evolve together.<br>
 
-### Hi, I'm Ed, a Shopify Web-Developer from <img src="https://user-images.githubusercontent.com/109622022/179829140-0b87d09f-455e-4569-80e8-ab0e52a5eed7.png" width="13"> LA, US with extenisve small business managment experience. Committed to vision-oriented value, I code and create fully responsive, asthetic, CRO based Shopify stores and landing pages. 
+### Hi, I'm Ed, a Shopify Web-Developer from <img src="https://user-images.githubusercontent.com/109622022/179829140-0b87d09f-455e-4569-80e8-ab0e52a5eed7.png" width="13"> LA, US with extenisve small business managment experience.
+
+Committed to vision-oriented value, I code and create fully responsive, asthetic, CRO based Shopify stores and landing pages. 
 
 ## 🛠️ Languages and Tools:
 
