@@ -3,7 +3,7 @@
 
 ### Hi, I'm Ed, a Shopify Web-Developer from <img src="https://user-images.githubusercontent.com/109622022/179829140-0b87d09f-455e-4569-80e8-ab0e52a5eed7.png" width="13"> LA, US with extenisve small business managment experience.
 
-### Committed to vision-oriented value, I code fully responsive, asthetic, CRO-based Shopify stores and landing pages that grow businesses. 
+### Committed to vision-oriented value, I code fully responsive, aesthetic, CRO-based Shopify stores and landing pages that grow businesses. 
 
 ## 🛠️ Languages and Tools:
 
