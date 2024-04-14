@@ -5,7 +5,6 @@
 
 ### Committed to vision-oriented value, I code fully responsive, aesthetic, CRO-based Shopify stores and landing pages that grow businesses. 
 
-<br />
 
 ## 🛠️ Languages and Tools:
 
