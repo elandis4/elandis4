@@ -3,7 +3,7 @@
 
 ### Hi, I'm Ed, a Shopify Web-Developer from <img src="https://user-images.githubusercontent.com/109622022/179829140-0b87d09f-455e-4569-80e8-ab0e52a5eed7.png" width="13"> LA, US with extenisve small business managment experience.
 
-### Committed to vision-oriented value, I code fully responsive, aesthetic, CRO-based Shopify stores and landing pages that grow businesses. 
+### Committed to vision-oriented value, I code fully responsive, aesthetic, CRO-based Shopify stores and landing pages that help grow businesses. 
 
 
 ## 🛠️ Languages and Tools:
@@ -24,22 +24,14 @@
 
 **👨‍💻 My services** 
 
-Do you need an eCommerce website or custom Shopify development?
-Unlike other developers, I only work with Shopify and my focus areas are store setups and theme development.<br /><br />
-Did you work with other Developers/Designers who were not able to fix your issues? [Contact me!](https://www.edlandis.dev/contact) I can help and if I can't, no worries.<br /> There will be no charges made. I will make sure you are happy with the outcome before getting billed.<br /><br />
-Here are some common tasks I’m asked to help with, but really anything you might need assistance with I can help.
+> 🏪 Do you need a Shopify store created with a custom layout, functionality, and branding?
+ > 
+> ⚙️ Do you need no-code adjustable Shopify customizations like marquees, testimonial sliders, hover animations, or product availability displays?
+ > 
+> 🧭 Do you need CRO improvements like no-app free shipping bars, automatic upsells, reviews, or subscriptions?
+>
+> 🚀 Contact me for a 100% free consultation to go over the needs of your job.
 
-> 🏪 Complete store setups
- > 
-> 🧭 Store migrations (Woo-commerce, Big Commerce ...)
- > 
-> 🎨 Theme customizations
- > 
-> ⚙️ Third-party app integrations
- > 
-> 🚀 Performance Optimizations
- > 
- 
  <br />
 
 <img width="20" align="top" src="https://user-images.githubusercontent.com/109622022/179842562-d0ed1e56-de9f-4910-b121-e092633f287d.png"><b> Schedule a meeting here:</b>
