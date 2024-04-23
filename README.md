@@ -36,7 +36,7 @@
 
 <img width="20" align="top" src="https://user-images.githubusercontent.com/109622022/179842562-d0ed1e56-de9f-4910-b121-e092633f287d.png"><b> Schedule a meeting here:</b>
 
-<a href="https://calendly.com/edlandis/15-min-phone-call" target="_blank"><img align="top" width="498" alt="meet_link" src="https://static.wixstatic.com/media/acb85f_3b24e36998784d3fb216d4a32eda6ec0~mv2.png/v1/fill/w_1200,h_154,al_c,lg_1,q_85,enc_auto/Screen%20Shot%202024-04-22%20at%2012_35_09%20PM.png"></a>
+<a href="https://calendly.com/edlandis/15-min-phone-call" target="_blank"><img align="top" width="498" alt="meet_link" ></a>
 
 ## 📫 Contact me:
 [![Email Badge](https://img.shields.io/badge/-contact@edlandis.dev-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:contact@edlandis.dev)](mailto:contact@edlandis.dev)
